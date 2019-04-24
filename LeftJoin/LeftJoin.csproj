@@ -8,6 +8,7 @@
     <PackageProjectUrl>https://github.com/oguzhankahyaoglu/joinextensions-leftjoin</PackageProjectUrl>
     <RepositoryUrl>https://github.com/oguzhankahyaoglu/joinextensions-leftjoin</RepositoryUrl>
     <PackageTags>leftjoin, join, linq, left outer join</PackageTags>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
 </Project>
