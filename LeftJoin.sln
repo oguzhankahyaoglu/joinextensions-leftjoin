@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftJoin", "LeftJoin\LeftJoin.csproj", "{FC8EE110-31D5-4984-AB8E-21D9C557E38C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8EE110-31D5-4984-AB8E-21D9C557E38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8EE110-31D5-4984-AB8E-21D9C557E38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8EE110-31D5-4984-AB8E-21D9C557E38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8EE110-31D5-4984-AB8E-21D9C557E38C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3FE102-D966-44CF-822E-289DC1803EDC}
+	EndGlobalSection
+EndGlobal
