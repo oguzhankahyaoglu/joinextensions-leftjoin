@@ -1,9 +1,0 @@
-D:\Bitbucket\joinextensions-leftjoin\LeftJoin\bin\Debug\netstandard2.0\LeftJoin.deps.json
-D:\Bitbucket\joinextensions-leftjoin\LeftJoin\bin\Debug\netstandard2.0\LeftJoin.dll
-D:\Bitbucket\joinextensions-leftjoin\LeftJoin\bin\Debug\netstandard2.0\LeftJoin.pdb
-D:\Bitbucket\joinextensions-leftjoin\LeftJoin\obj\Debug\netstandard2.0\LeftJoin.csprojAssemblyReference.cache
-D:\Bitbucket\joinextensions-leftjoin\LeftJoin\obj\Debug\netstandard2.0\LeftJoin.csproj.CoreCompileInputs.cache
-D:\Bitbucket\joinextensions-leftjoin\LeftJoin\obj\Debug\netstandard2.0\LeftJoin.AssemblyInfoInputs.cache
-D:\Bitbucket\joinextensions-leftjoin\LeftJoin\obj\Debug\netstandard2.0\LeftJoin.AssemblyInfo.cs
-D:\Bitbucket\joinextensions-leftjoin\LeftJoin\obj\Debug\netstandard2.0\LeftJoin.dll
-D:\Bitbucket\joinextensions-leftjoin\LeftJoin\obj\Debug\netstandard2.0\LeftJoin.pdb

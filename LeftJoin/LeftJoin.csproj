@@ -1,14 +1,15 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>oguzhankahyaoglu</Authors>
     <Description>Very simple LeftOuterJoin extension methods for both IQueryable and IEnumerable types</Description>
     <PackageProjectUrl>https://github.com/oguzhankahyaoglu/joinextensions-leftjoin</PackageProjectUrl>
     <RepositoryUrl>https://github.com/oguzhankahyaoglu/joinextensions-leftjoin</RepositoryUrl>
     <PackageTags>leftjoin, join, linq, left outer join</PackageTags>
     <Version>1.1.0</Version>
+    <PackageVersion>1.2.0</PackageVersion>
   </PropertyGroup>
 
 </Project>
