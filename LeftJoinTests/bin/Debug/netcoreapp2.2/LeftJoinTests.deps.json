@@ -1,20 +1,28 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "adedb69a787e6948c8cbde13b2f76f2055b88faf"
+    "signature": "6470d74ee61bce72af8ea43e6a48369a3f8aa7a4"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "LeftJoinTests/1.0.0": {
         "dependencies": {
-          "LeftJoin": "1.2.0",
+          "LeftJoin": "1.4.0",
           "Microsoft.NET.Test.Sdk": "15.9.0",
           "NUnit3TestAdapter": "3.11.0",
           "NUnit": "3.11.0"
         },
         "runtime": {
           "LeftJoinTests.dll": {}
+        }
+      },
+      "LinqKit.Core/1.1.16": {
+        "runtime": {
+          "lib/netstandard2.0/LinqKit.Core.dll": {
+            "assemblyVersion": "1.1.16.0",
+            "fileVersion": "1.1.16.0"
+          }
         }
       },
       "Microsoft.CodeCoverage/15.9.0": {
@@ -1032,7 +1040,10 @@
           }
         }
       },
-      "LeftJoin/1.2.0": {
+      "LeftJoin/1.4.0": {
+        "dependencies": {
+          "LinqKit.Core": "1.1.16"
+        },
         "runtime": {
           "LeftJoin.dll": {}
         }
@@ -1044,6 +1055,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "LinqKit.Core/1.1.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6rK3zR6V/z7Z5U3psHTXt5CTMCH1XBHORdA43WfcejUD7Cxey4UqIrH30loYR9gu4eRXsP0gCLMK48AZ8fkJ1g==",
+      "path": "linqkit.core/1.1.16",
+      "hashPath": "linqkit.core.1.1.16.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/15.9.0": {
       "type": "package",
@@ -1542,7 +1560,7 @@
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
-    "LeftJoin/1.2.0": {
+    "LeftJoin/1.4.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

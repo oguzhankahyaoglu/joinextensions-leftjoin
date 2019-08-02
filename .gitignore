@@ -2,3 +2,5 @@
 /_ReSharper.Caches
 /.idea
 /LeftJoin/obj
+!*.nupkg
+obj

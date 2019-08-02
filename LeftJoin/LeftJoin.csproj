@@ -9,7 +9,12 @@
     <RepositoryUrl>https://github.com/oguzhankahyaoglu/joinextensions-leftjoin</RepositoryUrl>
     <PackageTags>leftjoin, join, linq, left outer join</PackageTags>
     <Version>1.1.0</Version>
-    <PackageVersion>1.2.0</PackageVersion>
+    <PackageVersion>1.4.0</PackageVersion>
+    <PackageReleaseNotes>LinqKit reference added for AsExpandable</PackageReleaseNotes>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LinqKit.Core" Version="1.1.16" />
+  </ItemGroup>
 
 </Project>
